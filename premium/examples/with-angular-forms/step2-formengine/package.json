@@ -19,7 +19,7 @@
     "@angular/material": "^21.1.5",
     "@angular/platform-browser": "^21.1.5",
     "@angular/platform-browser-dynamic": "^21.1.5",
-    "@angular/router": "^21.1.5",
+    "@angular/router": "^21.2.24",
     "@bubblydoo/angular-react": "^0.4.5",
     "@react-form-builder/components-rsuite": "^10.2.0",
     "@react-form-builder/core": "^10.2.0",
